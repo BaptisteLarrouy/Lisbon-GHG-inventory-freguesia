@@ -20,3 +20,5 @@ Climate change is a complex topic. It's everyone's duty to communicate on this s
 
 ## Sector-based inventory summary
 
+![image](https://github.com/BaptisteLarrouy/Lisbon-GHG-inventory-freguesia/assets/71266685/a6fdb44b-bcea-4d29-bfd1-ee78acb1e828)
+
