@@ -18,7 +18,13 @@ Sector-based and consumption-based inventories are complementary, enabling us to
 
 Climate change is a complex topic. It's everyone's duty to communicate on this subject to improve understanding of the problems on a global scale. In that sense, all the resources are available on this repository and are free to use by anyone wishing to help humanity tackle the climate crisis (under the license mentionned in LICENSE.md)
 
-## Sector-based inventory summary
+## Sector-based inventory methodology and results
 
 ![image](https://github.com/BaptisteLarrouy/Lisbon-GHG-inventory-freguesia/assets/71266685/a6fdb44b-bcea-4d29-bfd1-ee78acb1e828)
+
+![image](https://github.com/BaptisteLarrouy/Lisbon-GHG-inventory-freguesia/assets/71266685/a0dc645d-156b-4ec3-a61b-5767b1ad424b)
+
+## Consumption-based inventory result
+
+![image](https://github.com/BaptisteLarrouy/Lisbon-GHG-inventory-freguesia/assets/71266685/11427323-6d5e-4dda-a530-f07e3d9d17d7)
 
